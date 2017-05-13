@@ -1,0 +1,17 @@
+The minimum spanning tree of all of the cities: 
+	(Los Angeles)->(25)(Seattle)
+	(Chicago)->(30)(Dallas)
+	(New York)->(50)(Chicago)
+	(Dallas)->(60)(Los Angeles)
+Distances from Chicago to: 
+	(New York): -1
+	(Chicago): 0
+	(Los Angeles): 90
+	(Seattle): 70
+	(Dallas): 30
+Cities reachable from Chicago:
+	(New York): false
+	(Chicago): true
+	(Los Angeles): true
+	(Seattle): true
+	(Dallas): true
